@@ -1,3 +1,13 @@
+influxdb-python (0.1.4-2+hl~1) wheezy; urgency=low
+
+  * add python trove classifiers to setup.py
+  * add licence='MIT' to setup.py
+  * add travis status image to README.md
+  * debianize influxdb-python
+  * update .gitignore
+
+ -- Bruno Binet <bruno.binet@gmail.com>  Thu, 06 Mar 2014 09:05:18 +0100
+
 influxdb-python (0.1.4-1) unstable; urgency=low
 
   * debianize influxdb-python.
