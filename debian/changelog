@@ -1,3 +1,10 @@
+influxdb-python (0.1.12-1+hl~1) wheezy; urgency=low
+
+  * HeliosLite packaging
+  * debian/source/format back to: 3.0 (native)
+
+ -- Bruno Binet <bruno.binet@helioslite.com>  Fri, 26 Sep 2014 14:39:13 +0200
+
 influxdb-python (0.1.10-1) unstable; urgency=low
 
   * New upstream version.
